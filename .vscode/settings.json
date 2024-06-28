@@ -1,0 +1,9 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "i18n-ally.localesPaths": [
+        "src/resources/locales",
+        "ios/Pods/RCT-Folly/folly/lang",
+        "ios/Pods/boost/boost/locale",
+        "ios/Pods/boost/boost/predef/language"
+    ]
+}

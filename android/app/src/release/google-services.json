@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483816170415",
+    "project_id": "translator-b433b",
+    "storage_bucket": "translator-b433b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483816170415:android:de2955e1ee2855cc36855a",
+        "android_client_info": {
+          "package_name": "com.ichime.dev.text.voice.file.translator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDECXkJz31-VmoljBfZ6olknMSLr_IJekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

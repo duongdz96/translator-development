@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178890251044",
+    "project_id": "translate-37c3f",
+    "storage_bucket": "translate-37c3f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178890251044:android:b52e4f8cc00e30bee831b1",
+        "android_client_info": {
+          "package_name": "com.ichime.dev.text.voice.file.translator.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuT3xAWQC_iua-8b5CO-qM-iX9iHccbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178890251044:android:bca83a91a96abc94e831b1",
+        "android_client_info": {
+          "package_name": "com.translate.global.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeuT3xAWQC_iua-8b5CO-qM-iX9iHccbA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
